@@ -1,0 +1,39 @@
+
+country_modifier = {
+	building_time_mult = 1
+}
+
+-------------- what to change ---------------
+
+military stations
+- more health
+- more range
+- more armor
+
+tech costs
+- tiercost * n ^ tiernum - 1 #1.097 for double, 1.154 for triple
+
+build times scale with empire
+- add building_time_mult to planetary capitals
+
+weapons rebalance
+- T1, T3, T5 are efficient
+- T2, T4 are ineficient
+- wider range disparity
+- wider accuracy/tracking disparity
+- nerf armor penetration
+
+ships rebalance
+- wider evasion disparity
+- wider armor disparity
+- tweak ai
+
+support module rebalance
+- afterburners give evasion
+- better armor
+
+naval cap
+- make overcap scaling exponential
+
+ftl rebalance
+- windup time affected by fleetsize
